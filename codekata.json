@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c450"
+  },
+  "u_name": "Raj",
+  "problem_solved": 100
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c451"
+  },
+  "u_name": "Suba",
+  "problem_solved": 70
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c452"
+  },
+  "u_name": "Naren",
+  "problem_solved": 120
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c453"
+  },
+  "u_name": "Vishnu",
+  "problem_solved": 60
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c454"
+  },
+  "u_name": "Raja",
+  "problem_solved": 20
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c455"
+  },
+  "u_name": "Arun",
+  "problem_solved": 50
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c456"
+  },
+  "u_name": "Karthi",
+  "problem_solved": 90
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c457"
+  },
+  "u_name": "Uma",
+  "problem_solved": 55
+},
+{
+  "_id": {
+    "$oid": "65aa10793131cf11cb83c458"
+  },
+  "u_name": "Rekha",
+  "problem_solved": 180
+}]

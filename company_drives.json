@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c449"
+  },
+  "c_name": "HCL",
+  "data": "16-oct-2020",
+  "students": [
+    "Raj",
+    "Naren",
+    "Vishnu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c44a"
+  },
+  "c_name": "TCS",
+  "data": "15-oct-2020",
+  "students": [
+    "Suba",
+    "Rekha"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c44b"
+  },
+  "c_name": "ZOHO",
+  "data": "19-oct-2020",
+  "students": [
+    "Naren",
+    "Vishnu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c44c"
+  },
+  "c_name": "Accenture",
+  "data": "30-oct-2020",
+  "students": [
+    "Raj",
+    "Suba"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c44d"
+  },
+  "c_name": "Aspire",
+  "data": "12-oct-2020",
+  "students": [
+    "Arun",
+    "Raja"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c44e"
+  },
+  "c_name": "Freshworks",
+  "data": "20-oct-2020",
+  "students": [
+    "Raj",
+    "Naren"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa0f843131cf11cb83c44f"
+  },
+  "c_name": "Google",
+  "data": "31-oct-2020",
+  "students": [
+    "Naren",
+    "Vishnu"
+  ]
+}]

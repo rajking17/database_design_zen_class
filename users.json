@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c439"
+  },
+  "u_name": "Raj",
+  "attendance": "Present",
+  "task_status": "Not Submitted",
+  "date": "17-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c43a"
+  },
+  "u_name": "Suba",
+  "attendance": "Absent",
+  "task_status": "Not Submitted",
+  "date": "14-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c43b"
+  },
+  "u_name": "Naren",
+  "attendance": "Present",
+  "task_status": "Submitted",
+  "date": "15-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c43c"
+  },
+  "u_name": "Vishnu",
+  "attendance": "Present",
+  "task_status": "Submitted",
+  "date": "20-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c43d"
+  },
+  "u_name": "Raja",
+  "attendance": "Present",
+  "task_status": "Not Submitted",
+  "date": "30-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c43e"
+  },
+  "u_name": "Arun",
+  "attendance": "Absent",
+  "task_status": "Not Submitted",
+  "date": "18-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c43f"
+  },
+  "u_name": "Karthi",
+  "attendance": "Present",
+  "task_status": "Not Submitted",
+  "date": "31-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c440"
+  },
+  "u_name": "Uma",
+  "attendance": "Absent",
+  "task_status": "Not Submitted",
+  "date": "14-oct-2020"
+},
+{
+  "_id": {
+    "$oid": "65aa0b193131cf11cb83c441"
+  },
+  "u_name": "Rekha",
+  "attendance": "Present",
+  "task_status": "Submitted",
+  "date": "12-oct-2020"
+}]

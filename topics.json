@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c459"
+  },
+  "t_name": "HTML",
+  "month": "January",
+  "task": "Design a Table"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c45a"
+  },
+  "t_name": "CSS",
+  "month": "Febraury",
+  "task": "Design a Webpage"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c45b"
+  },
+  "t_name": "Javascript",
+  "month": "November",
+  "task": "functions"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c45c"
+  },
+  "t_name": "JSON",
+  "month": "January",
+  "task": "Loops"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c45d"
+  },
+  "t_name": "React",
+  "month": "October",
+  "task": "Hooks"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c45e"
+  },
+  "t_name": "Node.js",
+  "month": "October",
+  "task": "CRUD operations"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c45f"
+  },
+  "t_name": "MongoDB",
+  "month": "October",
+  "task": "Create a DB"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c460"
+  },
+  "t_name": "MySQL",
+  "month": "August",
+  "task": "Design a DB for Zen class"
+},
+{
+  "_id": {
+    "$oid": "65aa11de3131cf11cb83c461"
+  },
+  "t_name": "Express.js",
+  "month": "October",
+  "task": "Create Modules"
+}]
